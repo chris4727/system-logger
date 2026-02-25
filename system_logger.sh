@@ -1,10 +1,11 @@
-#!/bin/bash
-
+#/bin/bash
+# ====================================================
 # Author: AntoninPvr
 # Date: 2024-12-04
 # License: GPLv3
 # Purpose: This script was originally designed to log battery information for a Razer Blade 15 Advanced (2020).
 # It supports flexible logging with an optional terminal interface showing the current log size and latest data.
+# chris4727 added ability to log CPU load
 
 # Default values
 INTERVAL=60
